@@ -1,5 +1,6 @@
 # codepath
-![image](https://user-images.githubusercontent.com/76496177/130369695-337f0e7f-f74f-4592-869a-5697189d6add.png)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76496177/130369719-1eed7166-0e72-40ec-9848-51771263631f.gif)
+
 
 # Pre-work - *Tip Calculator*
 
