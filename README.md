@@ -1,4 +1,6 @@
 # codepath
+![image](https://user-images.githubusercontent.com/76496177/130369695-337f0e7f-f74f-4592-869a-5697189d6add.png)
+
 # Pre-work - *Tip Calculator*
 
 **Name of App** is a tip calculator application for iOS.
